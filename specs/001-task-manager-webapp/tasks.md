@@ -20,11 +20,12 @@
 **Purpose**: Project initialization and dependency setup.
 
 - [ ] T001 Initialize a new Vite project with the React & TypeScript template in a new `frontend/` directory.
-- [ ] T002 [P] Install and configure Tailwind CSS in `frontend/tailwind.config.js` and `frontend/src/index.css`.
-- [ ] T003 [P] Install `dnd-kit` and its dependencies (`@dnd-kit/core`, `@dnd-kit/sortable`).
-- [ ] T004 [P] Install `lucide-react` for icons used by shadcn/ui.
-- [ ] T005 Run `npx shadcn-ui@latest init` to configure `shadcn/ui` in the `frontend/` directory.
-- [ ] T006 Create the initial source code directory structure inside `frontend/src/` (`app/`, `components/board`, `components/column`, `components/task`, `lib/`, `services/`).
+- [ ] T002 Install project dependencies from `package.json` in the `frontend/` directory.
+- [ ] T003 [P] Install and configure Tailwind CSS in `frontend/tailwind.config.js` and `frontend/src/index.css`.
+- [ ] T004 [P] Install `dnd-kit` and its dependencies (`@dnd-kit/core`, `@dnd-kit/sortable`).
+- [ ] T005 [P] Install `lucide-react` for icons used by shadcn/ui.
+- [ ] T006 Run `npx shadcn@latest init` to configure `shadcn/ui` in the `frontend/` directory.
+- [ ] T007 Create the initial source code directory structure inside `frontend/src/` (`app/`, `components/board`, `components/column`, `components/task`, `lib/`, `services/`).
 
 ---
 
